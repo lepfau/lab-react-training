@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card {
+  border: 1px solid black;
+  margin: 10px;
+  display: flex;
+  padding: 5px;
+}
+
+.cardinfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+p {
+  margin: 0;
+  padding: 5px;
+}
+
+.idcard {
+}
